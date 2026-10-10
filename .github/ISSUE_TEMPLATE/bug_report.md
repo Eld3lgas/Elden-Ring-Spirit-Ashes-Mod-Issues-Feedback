@@ -1,28 +1,38 @@
 ---
-name: Bug Report
-about: Create a report to help us fix a bug in Elden Ring: Spirit Ashes
-title: '[BUG] '
-labels: bug
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
 assignees: ''
+
 ---
 
-**Describe the Bug**
-A clear and concise description of what went wrong.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**Steps to Reproduce**
-Steps to make the bug happen:
+**To Reproduce**
+Steps to reproduce the behavior:
 1. Go to '...'
-2. Interact with '...'
-3. See error
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**Expected Behavior**
-A clear description of what you expected to happen instead.
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-**Environment Details**
-* **Minecraft Version:** [e.g., 1.21.1]
-* **Modloader & Version:** [e.g., NeoForge 21.1.25]
-* **Villager Awakening Version:** [e.g., 1.0.0]
-* **Active Shaders / Other Mods (if relevant):** [e.g., Complementary Shaders]
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**Crash Logs or Screenshots**
-If your game crashed, please upload your crash log or link it via [Pastebin](https://pastebin.com) / [mclo.gs](https://mclo.gs/). Add any helpful screenshots here!
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
