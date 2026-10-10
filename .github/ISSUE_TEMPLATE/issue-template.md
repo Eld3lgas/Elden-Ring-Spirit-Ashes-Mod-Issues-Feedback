@@ -10,7 +10,7 @@ type: Bug
 
 ---
 name: Bug Report
-about: Create a report to help us fix a bug in Villager Awakening
+about: Create a report to help us fix a bug in Elden Ring: SPirit Ashes
 title: '[BUG] '
 labels: bug
 assignees: ''
