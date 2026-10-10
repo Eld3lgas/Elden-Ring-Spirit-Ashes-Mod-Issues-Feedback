@@ -10,7 +10,7 @@ type: Bug
 
 ---
 name: Bug Report
-about: Create a report to help us fix a bug in Elden Ring: SPirit Ashes
+about: Create a report to help us fix a bug in Elden Ring: Spirit Ashes
 title: '[BUG] '
 labels: bug
 assignees: ''
