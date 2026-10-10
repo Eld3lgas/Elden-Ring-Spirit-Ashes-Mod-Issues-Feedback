@@ -1,4 +1,4 @@
-# Villager Awakening - Issue Tracker
+# Elden Ring: Spirit Ashes - Issue & Feedback Tracker
 
 Welcome! This repository is dedicated to bug reports and feature suggestions for the **Elden Ring: Spirit Ashes** Minecraft mod.
 
