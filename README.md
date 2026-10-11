@@ -8,4 +8,4 @@ Welcome! This repository is dedicated to bug reports and feature suggestions for
 3. Include your Minecraft version, Modloader version, and relevant crash logs or screenshots!
 
 ### How to Give Feedback or Suggest a Feature
-1. Check the [Discussions Page](https://github.com/Eld3lgas/elden_ring_spirit_ashes_mod_issues_feedback/issues) and create or contribute to a relevant discussion.
+1. Check the [Discussions Page](https://github.com/Eld3lgas/Elden-Ring-Spirit-Ashes-Mod-Issues-Feedback/discussions) and create or contribute to a relevant discussion.
