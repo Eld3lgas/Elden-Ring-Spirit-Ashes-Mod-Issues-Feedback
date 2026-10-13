@@ -31,7 +31,7 @@ A clear description of what you expected to happen instead.
 **Environment Details**
 * **Minecraft Version:** [e.g., 1.21.1]
 * **Modloader & Version:** [e.g., NeoForge 21.1.25]
-* **Villager Awakening Version:** [e.g., 1.0.0]
+* **Elden Ring: Spirit Ashes Version:** [e.g., 1.0.0]
 * **Active Shaders / Other Mods (if relevant):** [e.g., Complementary Shaders]
 
 **Crash Logs or Screenshots**
